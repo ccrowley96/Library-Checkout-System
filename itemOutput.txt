@@ -1,0 +1,11 @@
+Textbook, 1234,  Absolute Java,  Walter Savitch,  Pearson, 2016
+Book, 2, Elon Musk Biography, Ashlee Vance, Publish INC., 2015
+Adaptor, 1235,  HDMI-DVI, 5.0
+Magazine, 3, New York Times, Arthur Ochs Sulzberger Jr., New York Times Company, 2017
+Book, 1236,  Lord of the Rings,  J. R. R. Tolkien,  George Allen & Unwin, 1954
+Textbook, 4, Discrete Math and It's Applications, Kenneth H. Rosen, The McGraw-Hill Companies, 2012
+Device, 1237,  LCD Screen, 10.0
+Adaptor, 5, Iphone Dongle, 20.0
+Laptop, 1238,  MacBook Pro, 100.0
+Laptop, 6, Dell, 30.0
+Magazine, 1239,  IEEE ComSoc, IEEE ,  IEEE, 2017
